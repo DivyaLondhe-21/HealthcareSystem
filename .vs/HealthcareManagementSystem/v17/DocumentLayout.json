@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{911CE884-E699-4FCA-969F-50AC9BE7D10A}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\drajeshl\\source\\repos\\healthcaremanagementsystem\\authenticationservice\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911CE884-E699-4FCA-969F-50AC9BE7D10A}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911CE884-E699-4FCA-969F-50AC9BE7D10A}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\drajeshl\\source\\repos\\healthcaremanagementsystem\\authenticationservice\\authenticationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{911CE884-E699-4FCA-969F-50AC9BE7D10A}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\authenticationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F634789-B0FE-48B1-B36A-2A447EA0B9E4}|DatabaseModels\\DatabaseModels.csproj|c:\\users\\drajeshl\\source\\repos\\healthcaremanagementsystem\\databasemodels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F634789-B0FE-48B1-B36A-2A447EA0B9E4}|DatabaseModels\\DatabaseModels.csproj|solutionrelative:databasemodels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F634789-B0FE-48B1-B36A-2A447EA0B9E4}|DatabaseModels\\DatabaseModels.csproj|c:\\users\\drajeshl\\source\\repos\\healthcaremanagementsystem\\databasemodels\\databasemodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F634789-B0FE-48B1-B36A-2A447EA0B9E4}|DatabaseModels\\DatabaseModels.csproj|solutionrelative:databasemodels\\databasemodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F634789-B0FE-48B1-B36A-2A447EA0B9E4}|DatabaseModels\\DatabaseModels.csproj|c:\\users\\drajeshl\\source\\repos\\healthcaremanagementsystem\\databasemodels\\models\\healthcarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F634789-B0FE-48B1-B36A-2A447EA0B9E4}|DatabaseModels\\DatabaseModels.csproj|solutionrelative:databasemodels\\models\\healthcarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F634789-B0FE-48B1-B36A-2A447EA0B9E4}|DatabaseModels\\DatabaseModels.csproj|c:\\users\\drajeshl\\source\\repos\\healthcaremanagementsystem\\databasemodels\\databasemodels.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3F634789-B0FE-48B1-B36A-2A447EA0B9E4}|DatabaseModels\\DatabaseModels.csproj|solutionrelative:databasemodels\\databasemodels.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F634789-B0FE-48B1-B36A-2A447EA0B9E4}|DatabaseModels\\DatabaseModels.csproj|c:\\users\\drajeshl\\source\\repos\\healthcaremanagementsystem\\databasemodels\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F634789-B0FE-48B1-B36A-2A447EA0B9E4}|DatabaseModels\\DatabaseModels.csproj|solutionrelative:databasemodels\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F634789-B0FE-48B1-B36A-2A447EA0B9E4}|DatabaseModels\\DatabaseModels.csproj|c:\\users\\drajeshl\\source\\repos\\healthcaremanagementsystem\\databasemodels\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F634789-B0FE-48B1-B36A-2A447EA0B9E4}|DatabaseModels\\DatabaseModels.csproj|solutionrelative:databasemodels\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F634789-B0FE-48B1-B36A-2A447EA0B9E4}|DatabaseModels\\DatabaseModels.csproj|c:\\users\\drajeshl\\source\\repos\\healthcaremanagementsystem\\databasemodels\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F634789-B0FE-48B1-B36A-2A447EA0B9E4}|DatabaseModels\\DatabaseModels.csproj|solutionrelative:databasemodels\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F634789-B0FE-48B1-B36A-2A447EA0B9E4}|DatabaseModels\\DatabaseModels.csproj|c:\\users\\drajeshl\\source\\repos\\healthcaremanagementsystem\\databasemodels\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F634789-B0FE-48B1-B36A-2A447EA0B9E4}|DatabaseModels\\DatabaseModels.csproj|solutionrelative:databasemodels\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystem\\AuthenticationService\\Interfaces\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Interfaces\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystem\\AuthenticationService\\Interfaces\\IAuthRepository.cs",
+              "RelativeToolTip": "AuthenticationService\\Interfaces\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:58:29.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationService",
+              "DocumentMoniker": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystem\\AuthenticationService\\AuthenticationService.csproj",
+              "RelativeDocumentMoniker": "AuthenticationService\\AuthenticationService.csproj",
+              "ToolTip": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystem\\AuthenticationService\\AuthenticationService.csproj",
+              "RelativeToolTip": "AuthenticationService\\AuthenticationService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T09:58:12.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseModels.http",
+              "DocumentMoniker": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystem\\DatabaseModels\\DatabaseModels.http",
+              "RelativeDocumentMoniker": "DatabaseModels\\DatabaseModels.http",
+              "ToolTip": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystem\\DatabaseModels\\DatabaseModels.http",
+              "RelativeToolTip": "DatabaseModels\\DatabaseModels.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-08T09:28:41.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HealthcareContext.cs",
+              "DocumentMoniker": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystem\\DatabaseModels\\Models\\HealthcareContext.cs",
+              "RelativeDocumentMoniker": "DatabaseModels\\Models\\HealthcareContext.cs",
+              "ToolTip": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystem\\DatabaseModels\\Models\\HealthcareContext.cs",
+              "RelativeToolTip": "DatabaseModels\\Models\\HealthcareContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:52:13.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseModels",
+              "DocumentMoniker": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystem\\DatabaseModels\\DatabaseModels.csproj",
+              "RelativeDocumentMoniker": "DatabaseModels\\DatabaseModels.csproj",
+              "ToolTip": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystem\\DatabaseModels\\DatabaseModels.csproj",
+              "RelativeToolTip": "DatabaseModels\\DatabaseModels.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T06:46:58.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystem\\DatabaseModels\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DatabaseModels\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystem\\DatabaseModels\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "DatabaseModels\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:46:33.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystem\\DatabaseModels\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DatabaseModels\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystem\\DatabaseModels\\Models\\User.cs",
+              "RelativeToolTip": "DatabaseModels\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:43:24.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystem\\DatabaseModels\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "DatabaseModels\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystem\\DatabaseModels\\Models\\Patient.cs",
+              "RelativeToolTip": "DatabaseModels\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:42:26.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystem\\DatabaseModels\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseModels\\Program.cs",
+              "ToolTip": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystem\\DatabaseModels\\Program.cs",
+              "RelativeToolTip": "DatabaseModels\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:31:38.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystem\\DatabaseModels\\appsettings.json",
+              "RelativeDocumentMoniker": "DatabaseModels\\appsettings.json",
+              "ToolTip": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystem\\DatabaseModels\\appsettings.json",
+              "RelativeToolTip": "DatabaseModels\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T06:31:39.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

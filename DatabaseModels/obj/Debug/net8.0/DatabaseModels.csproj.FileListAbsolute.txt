@@ -1,0 +1,7 @@
+C:\Users\DRAJESHL\source\repos\HealthcareManagementSystem\DatabaseModels\obj\Debug\net8.0\DatabaseModels.csproj.AssemblyReference.cache
+C:\Users\DRAJESHL\source\repos\HealthcareManagementSystem\DatabaseModels\obj\Debug\net8.0\DatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAJESHL\source\repos\HealthcareManagementSystem\DatabaseModels\obj\Debug\net8.0\DatabaseModels.AssemblyInfoInputs.cache
+C:\Users\DRAJESHL\source\repos\HealthcareManagementSystem\DatabaseModels\obj\Debug\net8.0\DatabaseModels.AssemblyInfo.cs
+C:\Users\DRAJESHL\source\repos\HealthcareManagementSystem\DatabaseModels\obj\Debug\net8.0\DatabaseModels.csproj.CoreCompileInputs.cache
+C:\Users\DRAJESHL\source\repos\HealthcareManagementSystem\DatabaseModels\obj\Debug\net8.0\DatabaseModels.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DRAJESHL\source\repos\HealthcareManagementSystem\DatabaseModels\obj\Debug\net8.0\DatabaseModels.MvcApplicationPartsAssemblyInfo.cache
