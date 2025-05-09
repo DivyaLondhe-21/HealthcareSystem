@@ -1,0 +1,27 @@
+{
+    "GlobalConfiguration": {
+        "BaseUrl": "http://localhost:5032"
+    },
+  "Routes": [
+    {
+
+      "DownstreamPathTemplate": "/api/Patient",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7198
+        }
+      ],
+      "UpstreamPathTemplate": "/patients",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+
+    },
+    {
+
+    },
+
+  ]
+}
